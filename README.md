@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chonkway
-- 👀 I’m interested in all kinds of stuff
-- 🌱 I’m currently learning basic Machine Learning
+- 👀 I’m interested in game modding
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
