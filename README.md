@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chonkway
-- 👀 I’m interested in game modding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in game modding and reverse software engineering
+- 🌱 I’m currently working on [A python based GUI for the XD/Coll Tool Package](https://github.com/Chonkway/XD-Colosseum-WGUI)
+- 💞️ I’m looking to collaborate on []
+- 📫 How to reach me | Discord - 💕Chonkway™💕#7954 |
 
 <!---
 Chonkway/Chonkway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
