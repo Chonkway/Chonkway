@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chonkway
-- 👀 I’m interested in game modding and mobile app development
-- 🌱 I’m currently working on [A python based GUI for the XD/Coll Tool Package](https://github.com/Chonkway/XD-Colosseum-WGUI)
+- 👀 I’m interested in bot creation and data science
+- 🌱 I’m currently working on [SabBot](https://github.com/Chonkway/digital-sable)
 - 💞️ I’m looking to collaborate on []
 - 📫 How to reach me | Discord - 💕Chonkway™💕#7954 |
 
