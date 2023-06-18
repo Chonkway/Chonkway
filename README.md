@@ -2,7 +2,7 @@
 - 👀 I’m interested in bot creation and data science
 - 🌱 I’m currently working on [SabBot](https://github.com/Chonkway/digital-sable)
 - 💞️ I’m looking to collaborate on []
-- 📫 How to reach me | Discord - 💕Chonkway™💕#7954 |
+- 📫 How to reach me | Discord - chonkwayy |
 
 <!---
 Chonkway/Chonkway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
